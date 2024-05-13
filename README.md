@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning EVERYTHING! I am a cs Student at university. ELTE
+
 <!--
 **nazifanazrulrodoshi22/nazifanazrulrodoshi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
